@@ -3,7 +3,6 @@ from threading import Condition
 import streamlit as st
 import numpy as np
 import pandas as pd
-import empty as em
 from PIL import Image
 import time
 from streamlit.proto.Button_pb2 import Button
